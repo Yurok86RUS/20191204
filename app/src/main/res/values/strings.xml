@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LessonTwoHamework</string>
+    <string name="text_temperature">Текущая температура</string>
+    <string name="text_humidity">Текущая влажность</string>
 </resources>
